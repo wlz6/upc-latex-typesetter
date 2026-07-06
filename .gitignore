@@ -1,0 +1,24 @@
+# Local iteration handoff and source requirements
+context-summary.md
+requirements/
+
+# Local release archives
+*.tar.gz
+
+# Keep the published skill at repository root. The nested directory is the
+# local iteration copy and intentionally not published.
+skill/
+
+# TeX build outputs
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
