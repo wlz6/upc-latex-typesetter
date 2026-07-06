@@ -110,7 +110,9 @@ Strict UPC font check passed.
 
 ## 发布说明
 
-当前发布源码对应本地迭代工作区中的 `upc-latex-typesetter-1.2.1.tar.gz`。
+当前发布版本：`v0.1`。
+
+发布包：`upc-latex-typesetter-0.1.tar.gz`。
 
 主要变化：
 
